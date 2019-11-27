@@ -1,2 +1,2 @@
-# ML_exercises
+# Machine Learning homeworks
  
